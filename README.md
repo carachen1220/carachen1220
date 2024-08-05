@@ -7,7 +7,7 @@ Full stack developer
 I've been learnt coding for 2 years and get a master's degree in professional computing. I can work as a full stack developer and I'm seeking for a junior job.
 
 * 🌍  I'm based in Australia
-* ✉️  You can contact me at [chen\_canran@outlook.com](mailto:chen_canran@outlook.com)
+* ✉️  You can contact me at [Canran.Chen@anu.edu.au](mailto:u7580956@anu.edu.au)
 * ⚡  I got my bachelor degree in financial engineering.
 
 <a href="https://www.github.com/carachen1220" target="_blank" rel="noreferrer"><img
